@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item
+    android:id="@+id/add_travel"
+    android:title="Konum Ekle"
+    android:icon="@drawable/add_location"
+    app:showAsAction="ifRoom|collapseActionView">
+
+</item>
+
+    <item
+        android:id="@+id/question_mark"
+        android:title="Nasıl Kullanılır ?"
+        android:icon="@drawable/question_mark"
+        app:showAsAction="ifRoom|collapseActionView">
+
+    </item>
+</menu>
